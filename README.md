@@ -13,7 +13,7 @@ A web application showcasing Khmer traditional dishes, with a special focus on t
 
 ## Live Demo and Gallery
 ⚡Web demo: https://amokkhmer.com/ <br />
-⚡Project gallery: http://localhost:5173/projects/amok
+⚡Project gallery: https://new-3d-portfolio-swart.vercel.app/projects/amok
 
 ## Impact and outcome
 ❄️ Client was very satisfied with this high performance responsive website
