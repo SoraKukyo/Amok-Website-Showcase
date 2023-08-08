@@ -1,3 +1,5 @@
+
+<div align="center" width="100%"><img  width="300"  src="https://amokkhmer.com/_next/image?url=%2Fassets%2Fimages%2FLeaf.png&w=1920&q=75" /></div>
 <h1 align="center" id="title">Amok Khmer Website Showcase</h1>
 
 # Overview
